@@ -57,3 +57,9 @@ Further fixes or inhancements that could have been made:
 	I tried adding the Panel's border dimensions as a collision so that the
 	bubbles wouldn't be created outside of it's allocated space but ran 		
 	out of time. This could be further developed.
+
+TODO: 
+Fix initial Bubble being overlapped
+Fix Maximization issue
+Optimize position searching algorithm. Currently O(n^2). This can be more efficient.
+Add Dynamic re-positioning
